@@ -5,8 +5,10 @@ body {
         
         }
 
+/* psuedo class properties */
+
 a:visited {
-                color: blue;
+                color: blue;  /* keeps all links blue, even after clicking */
             }        
 
 
