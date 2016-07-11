@@ -72,6 +72,16 @@ a:visited {
 }
 
 
+
+/* project summary pages */
+
+.project-summary {
+    text-align: center;
+    padding-top: 170px;
+    padding-bottom: 170px;
+}
+
+
 /* footer */
 
 .footer {
