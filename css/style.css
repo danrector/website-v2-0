@@ -2,6 +2,9 @@
 
 body {
             font-family: "Helvetica", sans-serif;
+            margin:0;
+            padding:0;
+            width:100%;
         
         }
 
@@ -51,7 +54,7 @@ a:visited {
     
     background-color: #000000;
     color:#FFFFFF;
-    height: 150px;
+    height: 250px;
 
 }
 
