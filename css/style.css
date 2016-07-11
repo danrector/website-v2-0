@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+body {
+            font-family: "Helvetica", sans-serif;
+
+        
+        }
+
+
+/* home page */
+
+.hello {
+    
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 300px;
+}
+
+
+/* projects page */
+
+.header {
+    
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+.shortcuts{
+
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 25px; 
+
+}
+
+.projects {
+
+    padding: 25px;
+}
+
+
+/* footer */
+
+.footer {
+    
+    background-color: rgb(169, 169, 169);
+    background-color: rgba(169, 169, 169, .75);
+    height: 150px;
+
+}
+
+
+.nav-text {
+
+    font-size: 20px;
+    text-align: center;
+    padding: 25px;
+    
+}  
+
+.nav-text li {
+    display: inline;
+    padding: 25px;
+} 
