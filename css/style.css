@@ -2,9 +2,12 @@
 
 body {
             font-family: "Helvetica", sans-serif;
-
         
         }
+
+a:visited {
+                color: blue;
+            }        
 
 
 /* home page */
