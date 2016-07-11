@@ -63,7 +63,7 @@ a:visited {
     margin: 0 auto;
 }
 
-.large-pic {
+.large-pic {   /* instead of marking each picture with a class of either large or small, i could set properties to div containers, all ios pics should be the same, and most screen shots should be of similar size, too */
     width:70%;
 }
 
