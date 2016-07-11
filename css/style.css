@@ -58,6 +58,14 @@ a:visited {
     margin: 0 auto;
 }
 
+.large-pic {
+    width:70%;
+}
+
+.ios-pic {
+    width:40%;
+}
+
 
 /* footer */
 
