@@ -48,11 +48,14 @@ a:visited {
 .projects {
 
     padding: 25px;
+    text-align: center;
+
 }
 
 
 .projects h3 {
-    text-align: center; /* used to center the text of the project names. apparently not the strongest use of css, recommended to use a diferent way to specify. */
+    padding-top: 40px; /* used to center the text of the project names. apparently not the strongest use of css, recommended to use a diferent way to specify. */
+    padding-bottom: 40px;
 }
 
 .projects img {
