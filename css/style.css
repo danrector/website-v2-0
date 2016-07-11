@@ -49,8 +49,8 @@ a:visited {
 
 .footer {
     
-    background-color: rgb(169, 169, 169);
-    background-color: rgba(169, 169, 169, .75);
+    background-color: #000000;
+    color:#FFFFFF;
     height: 150px;
 
 }
