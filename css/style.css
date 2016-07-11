@@ -53,6 +53,11 @@ a:visited {
     text-align: center; /* used to center the text of the project names. apparently not the strongest use of css, recommended to use a diferent way to specify. */
 }
 
+.projects img {
+    display:block;
+    margin: 0 auto;
+}
+
 
 /* footer */
 
