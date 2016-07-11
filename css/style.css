@@ -65,6 +65,6 @@ a:visited {
 }  
 
 .nav-text li {
-    display: inline;
+    display: inline;  /* displays list in horizontal row, instead of vertical column. also removed bullet points. notice: had to use selector case to select each individual element of the list, instead of the list itself. eg .something_li; */
     padding: 25px;
 } 
